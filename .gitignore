@@ -1,4 +1,4 @@
 # Ignore the virtual environment folder
 mlscratch/
 
-# */.csv
+Housing*.csv
